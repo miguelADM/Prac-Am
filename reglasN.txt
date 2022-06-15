@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-
-  </body>
-</html>
+1-Venta mayores a 2000 pesos entrega gratis
+2-Pagos solo con Paypal
